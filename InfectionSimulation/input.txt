@@ -1,0 +1,7 @@
+Lawrence,85483,3
+Kansas City,1500000,2
+Smallville,23,0
+Alabama,1500000,4
+Witchville,23,4
+Hawaii,1500000,4
+James Town,500,1
