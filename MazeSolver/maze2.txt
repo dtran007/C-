@@ -1,0 +1,11 @@
+9 8
+7 5
+EXXXXXXX
+      XX
+XX XX XX
+X  XX XX
+XX XX XX
+X      X
+X XX X X
+X      X
+XXXXXXXX
